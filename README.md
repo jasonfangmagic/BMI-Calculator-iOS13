@@ -68,6 +68,12 @@ Need an identifier <br>
 # 15. Go Back to the Previous View
 <img width="666" alt="image" src="https://github.com/jasonfangmagic/BMI-Calculator-iOS13/assets/87825019/15fe48b9-3050-4f47-9e10-57d24ee38d02">
 
+# 16. To See the Layers of Your App
+Run the app and click 
+<img width="945" alt="image" src="https://github.com/jasonfangmagic/BMI-Calculator-iOS13/assets/87825019/a60a3c9c-2f29-412f-9219-f7aa35a57c7e"> <br>
+<img width="623" alt="image" src="https://github.com/jasonfangmagic/BMI-Calculator-iOS13/assets/87825019/d6de4f84-30a7-4769-bd3e-1fa9c8e049e5">
+
+
 
 
 
