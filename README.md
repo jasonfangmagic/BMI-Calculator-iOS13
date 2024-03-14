@@ -52,6 +52,9 @@ Then pass it to the first file <br>
 # 11. Set the Controller That Can Control This Screen
 <img width="1121" alt="image" src="https://github.com/jasonfangmagic/BMI-Calculator-iOS13/assets/87825019/cc08b109-8d63-4365-aa48-345c4907f124">
 
+# 12. Rename ViewController Name. Just Refactor -> Rename
+<img width="846" alt="image" src="https://github.com/jasonfangmagic/BMI-Calculator-iOS13/assets/87825019/c8a078f9-8dfd-41e8-bad6-3f51080b6af5">
+
 
 
 
