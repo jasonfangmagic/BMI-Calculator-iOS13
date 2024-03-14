@@ -29,8 +29,15 @@ https://developer.apple.com/documentation/swift/choosing-between-structures-and-
 
     Use structures along with protocols to adopt behavior by sharing implementations.<br>
 
-# Difference between struct and class
+# 6. Difference between struct and class
 <img width="934" alt="image" src="https://github.com/jasonfangmagic/BMI-Calculator-iOS13/assets/87825019/7f9a6fad-6986-4495-8252-bbea4986cdcc">
+
+# 7. Create a View from Code
+<img width="604" alt="image" src="https://github.com/jasonfangmagic/BMI-Calculator-iOS13/assets/87825019/e5167522-9161-4ffb-ac01-00d6a04fde6d">
+
+# 8. Transit View to Another View
+<img width="843" alt="image" src="https://github.com/jasonfangmagic/BMI-Calculator-iOS13/assets/87825019/8fa9f075-8cde-4e2f-9d4a-6b20802ff696">
+
 
 
 
