@@ -45,6 +45,15 @@ Create a new var in the second file <br>
 Then pass it to the first file <br>
 <img width="695" alt="image" src="https://github.com/jasonfangmagic/BMI-Calculator-iOS13/assets/87825019/602cdabe-bf67-451b-9435-d718836455de">
 
+# 10. Create a New Type of File for a New View -> Coco Touch Class
+<img width="903" alt="image" src="https://github.com/jasonfangmagic/BMI-Calculator-iOS13/assets/87825019/71531393-9036-407c-bc05-c6935f937896">
+<img width="500" alt="image" src="https://github.com/jasonfangmagic/BMI-Calculator-iOS13/assets/87825019/97c480e9-fcb7-4e14-b297-dab64451d169">
+
+# 11. Set the Controller That Can Control This Screen
+<img width="1121" alt="image" src="https://github.com/jasonfangmagic/BMI-Calculator-iOS13/assets/87825019/cc08b109-8d63-4365-aa48-345c4907f124">
+
+
+
 
 
 
