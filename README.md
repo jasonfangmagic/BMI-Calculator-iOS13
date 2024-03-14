@@ -19,6 +19,19 @@ Class has the ability to inherit from a SuperClass <br>
 <img width="864" alt="image" src="https://github.com/jasonfangmagic/BMI-Calculator-iOS13/assets/87825019/3d40a9a4-cf93-4c81-8513-d1196a40a92c">
 <img width="849" alt="image" src="https://github.com/jasonfangmagic/BMI-Calculator-iOS13/assets/87825019/db83ef27-64d1-4839-99e6-c8a4c3c95875">
 
+# 5. Choosing Between Structures and Classes
+https://developer.apple.com/documentation/swift/choosing-between-structures-and-classes <br>
+    Use structures by default.<br>
+
+    Use classes when you need Objective-C interoperability.<br>
+
+    Use classes when you need to control the identity of the data you’re modeling.<br>
+
+    Use structures along with protocols to adopt behavior by sharing implementations.<br>
+
+# Difference between struct and class
+<img width="934" alt="image" src="https://github.com/jasonfangmagic/BMI-Calculator-iOS13/assets/87825019/7f9a6fad-6986-4495-8252-bbea4986cdcc">
+
 
 
 
