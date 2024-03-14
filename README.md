@@ -38,6 +38,9 @@ https://developer.apple.com/documentation/swift/choosing-between-structures-and-
 # 8. Transit View to Another View
 <img width="843" alt="image" src="https://github.com/jasonfangmagic/BMI-Calculator-iOS13/assets/87825019/8fa9f075-8cde-4e2f-9d4a-6b20802ff696">
 
+# 9. Have Let the Current ViewController to Present the SecondViewController
+
+
 
 
 
