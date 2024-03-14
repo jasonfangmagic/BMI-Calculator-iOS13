@@ -57,6 +57,11 @@ Then pass it to the first file <br>
 
 # 13. Create a Segue from the First View to the Second View
 <img width="688" alt="image" src="https://github.com/jasonfangmagic/BMI-Calculator-iOS13/assets/87825019/34269ec0-2467-48d9-b992-fc85997a2395">
+<img width="477" alt="image" src="https://github.com/jasonfangmagic/BMI-Calculator-iOS13/assets/87825019/59788663-4288-4712-b748-23b7621a0bee"> <br>
+Need an identifier <br>
+<img width="1133" alt="image" src="https://github.com/jasonfangmagic/BMI-Calculator-iOS13/assets/87825019/e8a46efb-2d5b-4bb5-a9c1-f1111639b538">
+
+
 
 
 
