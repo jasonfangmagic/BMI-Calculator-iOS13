@@ -55,6 +55,10 @@ Then pass it to the first file <br>
 # 12. Rename ViewController Name. Just Refactor -> Rename
 <img width="846" alt="image" src="https://github.com/jasonfangmagic/BMI-Calculator-iOS13/assets/87825019/c8a078f9-8dfd-41e8-bad6-3f51080b6af5">
 
+# 13. Create a Segue from the First View to the Second View
+<img width="641" alt="image" src="https://github.com/jasonfangmagic/BMI-Calculator-iOS13/assets/87825019/95e9fa0c-9d48-4add-ad3b-97dc3a9a65a1">
+
+
 
 
 
