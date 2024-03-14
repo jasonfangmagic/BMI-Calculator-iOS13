@@ -38,6 +38,15 @@ https://developer.apple.com/documentation/swift/choosing-between-structures-and-
 # 8. Transit View to Another View <br> Have Let the Current ViewController to Present the SecondViewController
 <img width="1002" alt="image" src="https://github.com/jasonfangmagic/BMI-Calculator-iOS13/assets/87825019/114ff45a-77a8-41bb-998c-bd44a72af70e">
 
+# 9. Get the Value from ViewController to the SecondViewController
+
+Create a new var in the second file <br>
+<img width="802" alt="image" src="https://github.com/jasonfangmagic/BMI-Calculator-iOS13/assets/87825019/0e728bb5-b43a-4fc6-9357-54e31a21f3a4"> <br>
+Then pass it to the first file <br>
+<img width="890" alt="image" src="https://github.com/jasonfangmagic/BMI-Calculator-iOS13/assets/87825019/7950d225-4740-42c6-903e-141633f93b3b">
+
+
+
 
 
 
