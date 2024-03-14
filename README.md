@@ -63,7 +63,8 @@ Need an identifier <br>
 <img width="501" alt="image" src="https://github.com/jasonfangmagic/BMI-Calculator-iOS13/assets/87825019/523dc0a7-468b-496f-86cf-5f82cc510d8b">
 
 # 14. Initialize and Point to the Correct ViewController
-<img width="899" alt="image" src="https://github.com/jasonfangmagic/BMI-Calculator-iOS13/assets/87825019/8669d327-c196-457b-bafc-dc34fc29218d">
+<img width="948" alt="image" src="https://github.com/jasonfangmagic/BMI-Calculator-iOS13/assets/87825019/f1ec96db-13f9-4f84-8604-e6ac4a9a702d">
+
 
 
 
