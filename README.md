@@ -15,6 +15,10 @@ Class has the ability to inherit from a SuperClass <br>
 <img width="835" alt="image" src="https://github.com/jasonfangmagic/BMI-Calculator-iOS13/assets/87825019/dc20b3e1-5b83-4161-9eaa-95f04c59d67a"> <br>
 <img width="630" alt="image" src="https://github.com/jasonfangmagic/BMI-Calculator-iOS13/assets/87825019/5e67edc0-6afa-4dd9-bf5e-817d5b6af846">
 
+# 4. Classes are passed by reference
+<img width="864" alt="image" src="https://github.com/jasonfangmagic/BMI-Calculator-iOS13/assets/87825019/3d40a9a4-cf93-4c81-8513-d1196a40a92c">
+
+
 
 
 
