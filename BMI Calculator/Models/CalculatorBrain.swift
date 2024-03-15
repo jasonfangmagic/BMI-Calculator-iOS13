@@ -42,7 +42,7 @@ struct CalculatorBrain {
         return advice
     }
     
-    func getColor() -> UIColor{
+    func getColor() -> UIColor {
         let color = bmi?.color ?? .white
         return color
     }
