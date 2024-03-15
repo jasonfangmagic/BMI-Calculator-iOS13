@@ -1,5 +1,12 @@
 ## Notes
 
+# ***Thought 1 ***
+If you need to use the value, you can't return the value and you need to mutate the func inside the struct
+<img width="880" alt="image" src="https://github.com/jasonfangmagic/BMI-Calculator-iOS13/assets/87825019/e598f49d-c0c9-45c9-908f-4341f608b9bc">
+<img width="912" alt="image" src="https://github.com/jasonfangmagic/BMI-Calculator-iOS13/assets/87825019/a9600960-2554-4462-b473-3ac771414f65">
+
+
+
 # 1. Round Flaot 
 <img width="532" alt="image" src="https://github.com/jasonfangmagic/BMI-Calculator-iOS13/assets/87825019/a481d22b-9917-43ed-86c3-1f5981e8214a">
 <img width="569" alt="image" src="https://github.com/jasonfangmagic/BMI-Calculator-iOS13/assets/87825019/d746cbd0-b3d0-49d3-801d-311d87afa194">
@@ -21,13 +28,14 @@ Class has the ability to inherit from a SuperClass <br>
 
 # 5. Choosing Between Structures and Classes
 https://developer.apple.com/documentation/swift/choosing-between-structures-and-classes <br>
-    Use structures by default.<br>
 
-    Use classes when you need Objective-C interoperability.<br>
+    Use structures by default.
 
-    Use classes when you need to control the identity of the data you’re modeling.<br>
+    Use classes when you need Objective-C interoperability.
 
-    Use structures along with protocols to adopt behavior by sharing implementations.<br>
+    Use classes when you need to control the identity of the data you’re modeling.
+
+    Use structures along with protocols to adopt behavior by sharing implementations.
 
 # 6. Difference between struct and class
 <img width="934" alt="image" src="https://github.com/jasonfangmagic/BMI-Calculator-iOS13/assets/87825019/7f9a6fad-6986-4495-8252-bbea4986cdcc">
@@ -72,6 +80,36 @@ Need an identifier <br>
 Run the app and click 
 <img width="945" alt="image" src="https://github.com/jasonfangmagic/BMI-Calculator-iOS13/assets/87825019/a60a3c9c-2f29-412f-9219-f7aa35a57c7e"> <br>
 <img width="623" alt="image" src="https://github.com/jasonfangmagic/BMI-Calculator-iOS13/assets/87825019/d6de4f84-30a7-4769-bd3e-1fa9c8e049e5">
+
+# 17. Five different ways of working with optionals
+<img width="859" alt="image" src="https://github.com/jasonfangmagic/BMI-Calculator-iOS13/assets/87825019/7977cb89-13b7-4da8-b6bc-81fbae4bcab4">
+
+# 18. String and Optionl String? are different data types
+<img width="673" alt="image" src="https://github.com/jasonfangmagic/BMI-Calculator-iOS13/assets/87825019/099ca10a-e894-428e-9672-ed4a0460c881">
+
+# 19. Solve Optional Problems. 
+
+# First, Force to Unwrap by Using !
+<img width="542" alt="image" src="https://github.com/jasonfangmagic/BMI-Calculator-iOS13/assets/87825019/4cdf3ad1-89a0-4265-84e9-a5ccc32abf2d"> <br>
+But it will crash when there's a nil value in the var/let
+<img width="635" alt="image" src="https://github.com/jasonfangmagic/BMI-Calculator-iOS13/assets/87825019/1c609569-4395-4963-8c92-b7edeb0d2b5c">
+
+# Second, Use if statement to Check, but you still need to unwrap it
+<img width="850" alt="image" src="https://github.com/jasonfangmagic/BMI-Calculator-iOS13/assets/87825019/22a17662-1d47-4a76-8fbd-4099a7a0b9df">
+
+# Third, Optional Binding, but it just skips the nil values
+Bind the option with another constant. Then you can use the safe version of this optional
+<img width="868" alt="image" src="https://github.com/jasonfangmagic/BMI-Calculator-iOS13/assets/87825019/a0f9096f-1261-4076-a5d8-adb8ea6a8b7b">
+
+# Fourth, Nil Coalescing Operator, if it's nil, then use the default value
+<img width="678" alt="image" src="https://github.com/jasonfangmagic/BMI-Calculator-iOS13/assets/87825019/5de30d5c-bb4a-4527-9686-f521090be5f7">
+
+# 20. When you set a stuct to be an optional and nil, you can't access the property inside
+<img width="824" alt="image" src="https://github.com/jasonfangmagic/BMI-Calculator-iOS13/assets/87825019/386af337-3041-494f-943f-fb21b25fba37">
+
+
+# Fifth, Optional Chaining. Use a ? struct?.property or class?.property
+<img width="719" alt="image" src="https://github.com/jasonfangmagic/BMI-Calculator-iOS13/assets/87825019/8adbf47d-fc8b-4947-ae01-884267bcf007">
 
 
 
