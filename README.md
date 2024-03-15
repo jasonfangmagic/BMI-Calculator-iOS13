@@ -104,6 +104,13 @@ Bind the option with another constant. Then you can use the safe version of this
 # Fourth, Nil Coalescing Operator, if it's nil, then use the default value
 <img width="678" alt="image" src="https://github.com/jasonfangmagic/BMI-Calculator-iOS13/assets/87825019/5de30d5c-bb4a-4527-9686-f521090be5f7">
 
+# 20. When you set a stuct to be an optional and nil, you can't access the property inside
+<img width="824" alt="image" src="https://github.com/jasonfangmagic/BMI-Calculator-iOS13/assets/87825019/386af337-3041-494f-943f-fb21b25fba37">
+
+
+# Fifth, Optional Chaining. Use a ? struct?.property or class?.property
+<img width="719" alt="image" src="https://github.com/jasonfangmagic/BMI-Calculator-iOS13/assets/87825019/8adbf47d-fc8b-4947-ae01-884267bcf007">
+
 
 
 
