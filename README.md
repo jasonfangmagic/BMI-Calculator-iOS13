@@ -87,11 +87,22 @@ Run the app and click
 # 18. String and Optionl String? are different data types
 <img width="673" alt="image" src="https://github.com/jasonfangmagic/BMI-Calculator-iOS13/assets/87825019/099ca10a-e894-428e-9672-ed4a0460c881">
 
-# 19. Solve Optional Problems. First Force to Unwrap by Using !
+# 19. Solve Optional Problems. 
+
+# First, Force to Unwrap by Using !
 <img width="542" alt="image" src="https://github.com/jasonfangmagic/BMI-Calculator-iOS13/assets/87825019/4cdf3ad1-89a0-4265-84e9-a5ccc32abf2d"> <br>
 But it will crash when there's a nil value in the var/let
 <img width="635" alt="image" src="https://github.com/jasonfangmagic/BMI-Calculator-iOS13/assets/87825019/1c609569-4395-4963-8c92-b7edeb0d2b5c">
 
+# Second, Use if statement to Check, but you still need to unwrap it
+<img width="850" alt="image" src="https://github.com/jasonfangmagic/BMI-Calculator-iOS13/assets/87825019/22a17662-1d47-4a76-8fbd-4099a7a0b9df">
+
+# Third, Optional Binding, but it just skips the nil values
+Bind the option with another constant. Then you can use the safe version of this optional
+<img width="868" alt="image" src="https://github.com/jasonfangmagic/BMI-Calculator-iOS13/assets/87825019/a0f9096f-1261-4076-a5d8-adb8ea6a8b7b">
+
+# Fourth, Nil Coalescing Operator, if it's nil, then use the default value
+<img width="678" alt="image" src="https://github.com/jasonfangmagic/BMI-Calculator-iOS13/assets/87825019/5de30d5c-bb4a-4527-9686-f521090be5f7">
 
 
 
