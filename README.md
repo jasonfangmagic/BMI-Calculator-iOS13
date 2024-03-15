@@ -86,7 +86,8 @@ Run the app and click
 # 18. String and Optionl String? are different data types
 <img width="673" alt="image" src="https://github.com/jasonfangmagic/BMI-Calculator-iOS13/assets/87825019/099ca10a-e894-428e-9672-ed4a0460c881">
 
-
+# 19. Solve Optional Problems. First Force to Unwrap by Using !
+<img width="542" alt="image" src="https://github.com/jasonfangmagic/BMI-Calculator-iOS13/assets/87825019/4cdf3ad1-89a0-4265-84e9-a5ccc32abf2d">
 
 
 
