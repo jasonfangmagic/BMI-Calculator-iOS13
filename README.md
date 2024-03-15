@@ -80,6 +80,9 @@ Run the app and click
 <img width="945" alt="image" src="https://github.com/jasonfangmagic/BMI-Calculator-iOS13/assets/87825019/a60a3c9c-2f29-412f-9219-f7aa35a57c7e"> <br>
 <img width="623" alt="image" src="https://github.com/jasonfangmagic/BMI-Calculator-iOS13/assets/87825019/d6de4f84-30a7-4769-bd3e-1fa9c8e049e5">
 
+# 17. Five different ways of working with optionals
+<img width="859" alt="image" src="https://github.com/jasonfangmagic/BMI-Calculator-iOS13/assets/87825019/7977cb89-13b7-4da8-b6bc-81fbae4bcab4">
+
 
 
 
