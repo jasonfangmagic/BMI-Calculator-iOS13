@@ -28,13 +28,14 @@ Class has the ability to inherit from a SuperClass <br>
 
 # 5. Choosing Between Structures and Classes
 https://developer.apple.com/documentation/swift/choosing-between-structures-and-classes <br>
-    Use structures by default.<br>
 
-    Use classes when you need Objective-C interoperability.<br>
+    Use structures by default.
 
-    Use classes when you need to control the identity of the data you’re modeling.<br>
+    Use classes when you need Objective-C interoperability.
 
-    Use structures along with protocols to adopt behavior by sharing implementations.<br>
+    Use classes when you need to control the identity of the data you’re modeling.
+
+    Use structures along with protocols to adopt behavior by sharing implementations.
 
 # 6. Difference between struct and class
 <img width="934" alt="image" src="https://github.com/jasonfangmagic/BMI-Calculator-iOS13/assets/87825019/7f9a6fad-6986-4495-8252-bbea4986cdcc">
@@ -87,7 +88,11 @@ Run the app and click
 <img width="673" alt="image" src="https://github.com/jasonfangmagic/BMI-Calculator-iOS13/assets/87825019/099ca10a-e894-428e-9672-ed4a0460c881">
 
 # 19. Solve Optional Problems. First Force to Unwrap by Using !
-<img width="542" alt="image" src="https://github.com/jasonfangmagic/BMI-Calculator-iOS13/assets/87825019/4cdf3ad1-89a0-4265-84e9-a5ccc32abf2d">
+<img width="542" alt="image" src="https://github.com/jasonfangmagic/BMI-Calculator-iOS13/assets/87825019/4cdf3ad1-89a0-4265-84e9-a5ccc32abf2d"> <br>
+But it will crash when there's a nil value in the var/let
+<img width="635" alt="image" src="https://github.com/jasonfangmagic/BMI-Calculator-iOS13/assets/87825019/1c609569-4395-4963-8c92-b7edeb0d2b5c">
+
+
 
 
 
