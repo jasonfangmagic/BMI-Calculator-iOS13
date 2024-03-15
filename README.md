@@ -83,6 +83,10 @@ Run the app and click
 # 17. Five different ways of working with optionals
 <img width="859" alt="image" src="https://github.com/jasonfangmagic/BMI-Calculator-iOS13/assets/87825019/7977cb89-13b7-4da8-b6bc-81fbae4bcab4">
 
+# 18. String and Optionl String? are different data types
+<img width="673" alt="image" src="https://github.com/jasonfangmagic/BMI-Calculator-iOS13/assets/87825019/099ca10a-e894-428e-9672-ed4a0460c881">
+
+
 
 
 
