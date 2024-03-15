@@ -1,6 +1,7 @@
 ## Notes
 
 # ***Thought 1 ***
+If you need to use the value, you can't return the value and you need to mutate the func inside the struct
 <img width="880" alt="image" src="https://github.com/jasonfangmagic/BMI-Calculator-iOS13/assets/87825019/e598f49d-c0c9-45c9-908f-4341f608b9bc">
 <img width="912" alt="image" src="https://github.com/jasonfangmagic/BMI-Calculator-iOS13/assets/87825019/a9600960-2554-4462-b473-3ac771414f65">
 
