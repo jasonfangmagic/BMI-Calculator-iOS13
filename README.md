@@ -114,7 +114,11 @@ Bind the option with another constant. Then you can use the safe version of this
 # 21. First check if the struct is nil, then check if the value is nil. ?? if it's nil, then use the default value
 <img width="770" alt="image" src="https://github.com/jasonfangmagic/BMI-Calculator-iOS13/assets/87825019/3489074e-9d6b-4691-b4ae-08f7800ceb8c">
 
+# 22. We don't want to change bmi. It's set as a let
 
+<img width="297" alt="image" src="https://github.com/jasonfangmagic/BMI-Calculator-iOS13/assets/87825019/521349ff-d825-4350-ade5-1c30eabd4694">
+
+<img width="752" alt="image" src="https://github.com/jasonfangmagic/BMI-Calculator-iOS13/assets/87825019/dd61cc0f-a328-4fc1-b3c5-0f7c49ffd970">
 
 
 
